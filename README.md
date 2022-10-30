@@ -8,6 +8,7 @@ Historical data from the organization was broken down into 2 steps. Data preproc
 ### Data Preprocessing
 - Target of the model was whether a organization was successful or not (Y/N?)
 - Features of the model was determined to be:
+
 ![](https://github.com/NortonAAA/Neural_Network_Charity_Analysis/blob/main/images/features.png)
 
 - Other variables that were drop and of no value were the EIN and the Name shown below
